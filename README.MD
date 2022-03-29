@@ -22,6 +22,12 @@ Federated network based approach would allow  the exchange, refer, and embed doc
     5. Single source of truth.
     6. Federated servers for integration between companies.
 
+### Features
+    1. Documents are made from blocks similar to Notion.
+    2. References from one document into blocks from other documents
+    3. Reference from documents of one organization into blocks from another organization
+    4. Advanced control over data using blockchain based key management and p2p date exchange
+
 ## 2. Background
 ### 2.1 Requirements management
 ### 2.2 Web3
